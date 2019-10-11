@@ -1,0 +1,63 @@
+body {
+    background: gray
+}
+.name, .nav, footer, section, aside {
+    background: white;
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-family: 'Mansalva', cursive;
+}
+section {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+header {
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 32.5%
+}
+
+.section {
+    color: gray;
+    padding: 10px;
+    text-align: center;
+}
+article {
+    background: gray;
+    margin: 40px 10px 10px 10px;
+    height: 150px;
+}
+.article {
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+.headings {
+    color: gray;
+    background: white;
+    margin: 20px 10px 10px 10px;
+    padding: 5px
+}
+p {
+    color: gray;
+    background: white;
+    margin: 5px 10px 10px 10px;
+    padding: 5px;
+}
+footer {
+
+    clear: both;
+}
